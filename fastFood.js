@@ -26,7 +26,6 @@ const chickenComboMeal = {
 const kidsMeal = {
     sandwichType: "hamburger",
     fries: true,
-    drinkSize: "kid-cup"
 }
 
 const cheeseBurgerMeal = {
